@@ -31,5 +31,6 @@ public class InvertIntNum {
             invertIntNum(a[i]);
             i++;
         }
+
     }
 }

@@ -34,6 +34,5 @@ class SumPlural {
             }
         }
         sumPlural(a,n);
-
     }
 }

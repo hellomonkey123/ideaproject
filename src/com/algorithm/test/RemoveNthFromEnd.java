@@ -39,7 +39,6 @@ public class RemoveNthFromEnd {
         node = new ListNode(2);
         node = new ListNode(3);
         Map map = new ConcurrentHashMap();
-        SingletonIterator
         System.out.println(removeNthFromEnd(node,3));
     }
 }
