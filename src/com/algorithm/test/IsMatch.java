@@ -5,9 +5,12 @@ import org.junit.Test;
 public class IsMatch {
 
     public boolean isMatch(String s, String p) {
+
+        System.out.println(s.charAt(0) - 'a');
         int sLen = s.length();
         int pLen = p.length();
         boolean[][] memory = new boolean[sLen + 1][pLen + 1];
+
         memory[0][0] = true;
 
         for(int i = 0; i <= sLen; i++){
@@ -27,5 +30,6 @@ public class IsMatch {
     @Test
     public void test(){
         System.out.println(isMatch("mississippi","**s*is*p*."));
+
     }
 }

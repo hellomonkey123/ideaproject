@@ -1,8 +1,6 @@
 package com.algorithm.test;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
+import java.util.*;
 
 public class PrintNumOfSite {
 
@@ -25,9 +23,13 @@ public class PrintNumOfSite {
         String[]  a = new String[n];
 
         for (int i = 0; i < n; i++){
-            a[i] = input.next();
+            a[i] = input.nextLine();
         }
         String sss = a[1].substring(0,4);
         printNumOfSite(n,a);
+        for (int i = 0; i < n; i++){
+            System.out.println(a.length);
+            System.out.println(a[i]);
+        }
     }
 }
