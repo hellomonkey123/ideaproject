@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/algorithm/test/LastRemaining_Solution.java" line="19" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3120a1b6-c586-4e5f-acd1-bb8a48196a53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/FindFirstCommonNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/FindNumsAppearOnce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/FirstNotRepeatingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/GetNumberOfK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/GetUglyNumber_Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/InversePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/IsContinuous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/MyCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/MycalendarTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/ReverseSentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designer/test/observer/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designer/test/observer/Interface/DisplayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designer/test/observer/Interface/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designer/test/observer/Interface/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designer/test/observer/TestObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designer/test/observer/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/LastRemaining_Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -66,10 +54,10 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="32" />
+          <entry key="class" value="33" />
           <entry key="fxml" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="212" />
+          <entry key="java" value="214" />
           <entry key="md" value="1" />
           <entry key="name" value="1" />
           <entry key="xml" value="4" />
@@ -77,9 +65,9 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="32" />
+          <entry key="CLASS" value="33" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="212" />
+          <entry key="JAVA" value="214" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="5" />
         </counts>
@@ -88,7 +76,7 @@
         <counts>
           <entry key="class" value="4" />
           <entry key="dummy" value="9" />
-          <entry key="java" value="16377" />
+          <entry key="java" value="16483" />
           <entry key="txt" value="9" />
           <entry key="xml" value="6" />
         </counts>
@@ -96,7 +84,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="16377" />
+          <entry key="JAVA" value="16483" />
           <entry key="PLAIN_TEXT" value="18" />
           <entry key="XML" value="6" />
         </counts>
@@ -106,18 +94,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/MyCalendar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/designer/test/observer/TestObserver.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -154,13 +130,39 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/IsContinuous.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="427">
               <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/LastRemaining_Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="17" column="29" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="17" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="281" selection-start-line="281" selection-end-line="281" />
+              <folding>
+                <element signature="e#10388#10389#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -197,19 +199,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/designer/test/observer/Interface/Observer.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="65" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/designer/test/observer/Interface/DisplayElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="378">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -239,7 +232,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/TentoSixteen.java" />
         <option value="$PROJECT_DIR$/src/SwingObserverExample.java" />
         <option value="$PROJECT_DIR$/src/tet.java" />
         <option value="$PROJECT_DIR$/src/Singleton_test.java" />
@@ -290,6 +282,7 @@
         <option value="$PROJECT_DIR$/src/com/designer/test/observer/WeatherData.java" />
         <option value="$PROJECT_DIR$/src/com/algorithm/test/ReverseSentence.java" />
         <option value="$PROJECT_DIR$/src/com/algorithm/test/IsContinuous.java" />
+        <option value="$PROJECT_DIR$/src/com/algorithm/test/LastRemaining_Solution.java" />
       </list>
     </option>
   </component>
@@ -403,7 +396,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559393499631" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559445438495" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -428,23 +421,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IsContinuous.test">
-    <configuration name="FindNumsAppearOnce.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algorithm.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.algorithm.test" />
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.test.FindNumsAppearOnce" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.LastRemaining_Solution">
     <configuration name="IsContinuous.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test1" />
       <extension name="coverage">
@@ -455,6 +432,36 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.algorithm.test" />
       <option name="MAIN_CLASS_NAME" value="com.algorithm.test.IsContinuous" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LastRemaining_Solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algorithm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.test.LastRemaining_Solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LastRemaining_Solution.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algorithm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.test.LastRemaining_Solution" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -489,36 +496,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestObserver.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.designer.test.observer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.designer.test.observer" />
-      <option name="MAIN_CLASS_NAME" value="com.designer.test.observer.TestObserver" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.FindNumsAppearOnce.test" />
-      <item itemvalue="JUnit.TestObserver.test" />
       <item itemvalue="JUnit.TestObserver" />
       <item itemvalue="JUnit.ReverseSentence" />
       <item itemvalue="JUnit.IsContinuous.test" />
+      <item itemvalue="JUnit.LastRemaining_Solution.test" />
+      <item itemvalue="JUnit.LastRemaining_Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LastRemaining_Solution" />
+        <item itemvalue="JUnit.LastRemaining_Solution.test" />
         <item itemvalue="JUnit.IsContinuous.test" />
         <item itemvalue="JUnit.ReverseSentence" />
         <item itemvalue="JUnit.TestObserver" />
-        <item itemvalue="JUnit.TestObserver.test" />
-        <item itemvalue="JUnit.FindNumsAppearOnce.test" />
       </list>
     </recent_temporary>
   </component>
@@ -544,35 +535,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestObserver - 2019.05.31 at 17h 50m 10s.xml">
-      <configuration name="TestObserver" configurationId="JUnit" />
+    <history-entry file="LastRemaining_Solution - 2019.06.02 at 10h 47m 25s.xml">
+      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestObserver - 2019.05.31 at 17h 51m 20s.xml">
-      <configuration name="TestObserver" configurationId="JUnit" />
+    <history-entry file="LastRemaining_Solution - 2019.06.02 at 10h 51m 54s.xml">
+      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseSentence - 2019.06.01 at 18h 57m 43s.xml">
-      <configuration name="ReverseSentence" configurationId="JUnit" />
+    <history-entry file="LastRemaining_Solution - 2019.06.02 at 10h 54m 55s.xml">
+      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseSentence - 2019.06.01 at 19h 00m 36s.xml">
-      <configuration name="ReverseSentence" configurationId="JUnit" />
+    <history-entry file="LastRemaining_Solution - 2019.06.02 at 10h 55m 04s.xml">
+      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseSentence - 2019.06.01 at 19h 00m 39s.xml">
-      <configuration name="ReverseSentence" configurationId="JUnit" />
+    <history-entry file="LastRemaining_Solution - 2019.06.02 at 10h 56m 25s.xml">
+      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseSentence - 2019.06.01 at 19h 38m 13s.xml">
-      <configuration name="ReverseSentence" configurationId="JUnit" />
+    <history-entry file="LastRemaining_Solution - 2019.06.02 at 10h 58m 06s.xml">
+      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IsContinuous_test - 2019.06.01 at 19h 38m 21s.xml">
-      <configuration name="IsContinuous.test" configurationId="JUnit" />
+    <history-entry file="LastRemaining_Solution - 2019.06.02 at 10h 59m 43s.xml">
+      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IsContinuous_test - 2019.06.01 at 19h 38m 34s.xml">
-      <configuration name="IsContinuous.test" configurationId="JUnit" />
+    <history-entry file="LastRemaining_Solution - 2019.06.02 at 10h 59m 58s.xml">
+      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IsContinuous_test - 2019.06.01 at 19h 38m 49s.xml">
-      <configuration name="IsContinuous.test" configurationId="JUnit" />
+    <history-entry file="LastRemaining_Solution - 2019.06.02 at 11h 04m 29s.xml">
+      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IsContinuous_test - 2019.06.01 at 19h 46m 49s.xml">
-      <configuration name="IsContinuous.test" configurationId="JUnit" />
+    <history-entry file="LastRemaining_Solution - 2019.06.02 at 11h 04m 42s.xml">
+      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -849,27 +840,16 @@
           <properties />
           <option name="timeStamp" value="65" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/test/LastRemaining_Solution.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/FindMedianSortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-83">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/GetHint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-297">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/IntToRoman.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1161">
@@ -1171,13 +1151,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/FindNumsAppearOnce.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
@@ -1272,6 +1245,35 @@
           <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="281" selection-start-line="281" selection-end-line="281" />
+          <folding>
+            <element signature="e#10388#10389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/LastRemaining_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
           </folding>
         </state>
       </provider>
