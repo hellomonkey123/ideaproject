@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3120a1b6-c586-4e5f-acd1-bb8a48196a53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/LastRemaining_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/MoreThanHalfNum_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/StrToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designer/test/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designer/test/singleton/hdjsh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java18/newchara/test/ConsumerT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java18/newchara/test/FunctionTR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java18/newchara/test/PredicateT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java18/newchara/test/StreamAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java18/newchara/test/SupplierT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test1/com/algorithm/test/IsContinuous.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test1/com/algorithm/test/IsContinuous.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +67,7 @@
           <entry key="class" value="33" />
           <entry key="fxml" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="214" />
+          <entry key="java" value="229" />
           <entry key="md" value="1" />
           <entry key="name" value="1" />
           <entry key="xml" value="4" />
@@ -67,7 +77,7 @@
         <counts>
           <entry key="CLASS" value="33" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="214" />
+          <entry key="JAVA" value="229" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="5" />
         </counts>
@@ -76,7 +86,7 @@
         <counts>
           <entry key="class" value="4" />
           <entry key="dummy" value="9" />
-          <entry key="java" value="16483" />
+          <entry key="java" value="17809" />
           <entry key="txt" value="9" />
           <entry key="xml" value="6" />
         </counts>
@@ -84,7 +94,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="16483" />
+          <entry key="JAVA" value="17809" />
           <entry key="PLAIN_TEXT" value="18" />
           <entry key="XML" value="6" />
         </counts>
@@ -95,46 +105,48 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/designer/test/observer/TestObserver.java">
+        <entry file="file://$PROJECT_DIR$/src/com/java18/newchara/test/ConsumerT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+            <state relative-caret-position="243">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/designer/test/observer/Interface/Subject.java">
+        <entry file="file://$PROJECT_DIR$/src/com/java18/newchara/test/SupplierT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="162">
+              <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+              <folding>
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/FindSame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/ReverseSentence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/IsContinuous.java">
+        <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Supplier.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="427">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+              <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java18/newchara/test/StreamAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -143,66 +155,69 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/LastRemaining_Solution.java">
+        <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/stream/Stream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="17" column="29" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="-1728">
+              <caret line="822" column="18" selection-start-line="822" selection-start-column="18" selection-end-line="822" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java18/newchara/test/FunctionTR.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#548#549#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java">
+        <entry file="file://$PROJECT_DIR$/src/com/java18/newchara/test/PredicateT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="281" selection-start-line="281" selection-end-line="281" />
-              <folding>
-                <element signature="e#10388#10389#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/designer/test/observer/WeatherData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            <state relative-caret-position="162">
+              <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#851#852#0" expanded="true" />
-                <element signature="e#884#885#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/designer/test/observer/CurrentConditionsDisplay.java">
+        <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Predicate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="-1512">
+              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Function.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="535">
+              <caret line="83" column="29" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="29" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#2837#2838#0" expanded="true" />
+                <element signature="e#2866#2867#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+        <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="427">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
             </state>
           </provider>
         </entry>
@@ -214,6 +229,7 @@
       <list>
         <option value="FxmlFile" />
         <option value="Interface" />
+        <option value="Singleton" />
         <option value="Class" />
       </list>
     </option>
@@ -232,15 +248,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SwingObserverExample.java" />
-        <option value="$PROJECT_DIR$/src/tet.java" />
-        <option value="$PROJECT_DIR$/src/Singleton_test.java" />
-        <option value="$PROJECT_DIR$/src/com.jvm.test.fxml" />
-        <option value="$PROJECT_DIR$/src/com/algorithm/test/ZmodelPrint.java" />
-        <option value="$PROJECT_DIR$/src/com/algorithm/test/StrCut.java" />
-        <option value="$PROJECT_DIR$/src/com/jvm/test/JconsoleTest.java" />
-        <option value="$PROJECT_DIR$/src/com/algorithm/test/ReverseInt.java" />
-        <option value="$PROJECT_DIR$/src/com/algorithm/test/LargestSum.java" />
         <option value="$PROJECT_DIR$/src/com/algorithm/test/LongestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/com/algorithm/test/XorGame.java" />
         <option value="$PROJECT_DIR$/src/com/algorithm/test/GetHint.java" />
@@ -283,6 +290,15 @@
         <option value="$PROJECT_DIR$/src/com/algorithm/test/ReverseSentence.java" />
         <option value="$PROJECT_DIR$/src/com/algorithm/test/IsContinuous.java" />
         <option value="$PROJECT_DIR$/src/com/algorithm/test/LastRemaining_Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/algorithm/test/StrToInt.java" />
+        <option value="$PROJECT_DIR$/src/com/algorithm/test/Multiply.java" />
+        <option value="$PROJECT_DIR$/src/com/algorithm/test/MoreThanHalfNum_Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/designer/test/singleton/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/com/java18/newchara/test/ConsumerT.java" />
+        <option value="$PROJECT_DIR$/src/com/java18/newchara/test/SupplierT.java" />
+        <option value="$PROJECT_DIR$/src/com/java18/newchara/test/FunctionTR.java" />
+        <option value="$PROJECT_DIR$/src/com/java18/newchara/test/PredicateT.java" />
+        <option value="$PROJECT_DIR$/src/com/java18/newchara/test/StreamAPI.java" />
       </list>
     </option>
   </component>
@@ -293,9 +309,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="53" />
-    <option name="y" value="28" />
-    <option name="width" value="1220" />
+    <option name="x" value="669" />
+    <option name="y" value="1" />
+    <option name="width" value="1258" />
     <option name="height" value="1006" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -359,15 +375,15 @@
               <item name="ideaproject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test1" type="b2602c69:ProjectViewProjectNode" />
               <item name="ideaproject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
-              <item name="Interface" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test1" type="b2602c69:ProjectViewProjectNode" />
@@ -396,7 +412,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559445438495" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559706110465" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -405,6 +421,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.designer.test" />
       <recent name="com.designer.test.observer.Interface" />
       <recent name="com.designer.test.observer" />
     </key>
@@ -421,24 +438,38 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LastRemaining_Solution">
-    <configuration name="IsContinuous.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FunctionTR.test">
+    <configuration name="ConsumerT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.test.*" />
+          <option name="PATTERN" value="com.java18.newchara.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.algorithm.test" />
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.test.IsContinuous" />
+      <option name="PACKAGE_NAME" value="com.java18.newchara.test" />
+      <option name="MAIN_CLASS_NAME" value="com.java18.newchara.test.ConsumerT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionTR.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java18.newchara.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java18.newchara.test" />
+      <option name="MAIN_CLASS_NAME" value="com.java18.newchara.test.FunctionTR" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastRemaining_Solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MoreThanHalfNum_Solution.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test1" />
       <extension name="coverage">
         <pattern>
@@ -447,28 +478,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.algorithm.test" />
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.test.LastRemaining_Solution" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LastRemaining_Solution.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algorithm.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.algorithm.test" />
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.test.LastRemaining_Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.test.MoreThanHalfNum_Solution" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseSentence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Multiply.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test1" />
       <extension name="coverage">
         <pattern>
@@ -477,39 +494,43 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.algorithm.test" />
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.test.ReverseSentence" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.test.Multiply" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestObserver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StrToInt.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.designer.test.observer.*" />
+          <option name="PATTERN" value="com.algorithm.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.designer.test.observer" />
-      <option name="MAIN_CLASS_NAME" value="com.designer.test.observer.TestObserver" />
+      <option name="PACKAGE_NAME" value="com.algorithm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.test.StrToInt" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestObserver" />
-      <item itemvalue="JUnit.ReverseSentence" />
-      <item itemvalue="JUnit.IsContinuous.test" />
-      <item itemvalue="JUnit.LastRemaining_Solution.test" />
-      <item itemvalue="JUnit.LastRemaining_Solution" />
+      <item itemvalue="JUnit.StrToInt.test" />
+      <item itemvalue="JUnit.Multiply.test" />
+      <item itemvalue="JUnit.MoreThanHalfNum_Solution.test" />
+      <item itemvalue="JUnit.ConsumerT" />
+      <item itemvalue="JUnit.FunctionTR.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LastRemaining_Solution" />
-        <item itemvalue="JUnit.LastRemaining_Solution.test" />
-        <item itemvalue="JUnit.IsContinuous.test" />
-        <item itemvalue="JUnit.ReverseSentence" />
-        <item itemvalue="JUnit.TestObserver" />
+        <item itemvalue="JUnit.FunctionTR.test" />
+        <item itemvalue="JUnit.ConsumerT" />
+        <item itemvalue="JUnit.MoreThanHalfNum_Solution.test" />
+        <item itemvalue="JUnit.Multiply.test" />
+        <item itemvalue="JUnit.StrToInt.test" />
       </list>
     </recent_temporary>
   </component>
@@ -531,39 +552,46 @@
       <option name="project" value="LOCAL" />
       <updated>1556509246707</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20190429">
+      <created>1559446052973</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559446052974</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LastRemaining_Solution - 2019.06.02 at 10h 47m 25s.xml">
-      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
+    <history-entry file="StrToInt_test - 2019.06.02 at 23h 37m 16s.xml">
+      <configuration name="StrToInt.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LastRemaining_Solution - 2019.06.02 at 10h 51m 54s.xml">
-      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
+    <history-entry file="StrToInt_test - 2019.06.02 at 23h 40m 32s.xml">
+      <configuration name="StrToInt.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LastRemaining_Solution - 2019.06.02 at 10h 54m 55s.xml">
-      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
+    <history-entry file="Multiply_test - 2019.06.03 at 14h 06m 21s.xml">
+      <configuration name="Multiply.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LastRemaining_Solution - 2019.06.02 at 10h 55m 04s.xml">
-      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
+    <history-entry file="StrToInt_test - 2019.06.03 at 14h 08m 03s.xml">
+      <configuration name="StrToInt.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LastRemaining_Solution - 2019.06.02 at 10h 56m 25s.xml">
-      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
+    <history-entry file="Multiply_test - 2019.06.03 at 14h 08m 03s.xml">
+      <configuration name="Multiply.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LastRemaining_Solution - 2019.06.02 at 10h 58m 06s.xml">
-      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
+    <history-entry file="Multiply_test - 2019.06.03 at 14h 08m 07s.xml">
+      <configuration name="Multiply.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LastRemaining_Solution - 2019.06.02 at 10h 59m 43s.xml">
-      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
+    <history-entry file="MoreThanHalfNum_Solution_test - 2019.06.04 at 10h 22m 35s.xml">
+      <configuration name="MoreThanHalfNum_Solution.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LastRemaining_Solution - 2019.06.02 at 10h 59m 58s.xml">
-      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
+    <history-entry file="MoreThanHalfNum_Solution_test - 2019.06.04 at 10h 23m 23s.xml">
+      <configuration name="MoreThanHalfNum_Solution.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LastRemaining_Solution - 2019.06.02 at 11h 04m 29s.xml">
-      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
+    <history-entry file="ConsumerT - 2019.06.04 at 17h 33m 34s.xml">
+      <configuration name="ConsumerT" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LastRemaining_Solution - 2019.06.02 at 11h 04m 42s.xml">
-      <configuration name="LastRemaining_Solution" configurationId="JUnit" />
+    <history-entry file="FunctionTR_test - 2019.06.04 at 22h 35m 45s.xml">
+      <configuration name="FunctionTR.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -576,10 +604,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="28" width="1220" height="1006" extended-state="0" />
+    <frame x="669" y="1" width="1258" height="1006" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2025862" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1360601" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -588,7 +616,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299435" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6788889" visible="true" weight="0.25028703" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6788889" visible="true" weight="0.25028703" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48555556" weight="0.28013778" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -604,7 +632,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.4992343" visible="true" weight="0.03275862" />
+      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.4992343" visible="true" weight="0.031719532" />
       <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5007657" side_tool="true" visible="true" weight="0.03502304" />
     </layout>
   </component>
@@ -846,128 +874,28 @@
           <properties />
           <option name="timeStamp" value="66" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/test/StrToInt.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/test/Multiply.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/test/MoreThanHalfNum_Solution.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/IntToRoman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1161">
-          <caret line="20" column="46" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/InvertIntNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/IsMatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="823">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/LargestSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="58" column="52" selection-start-line="58" selection-start-column="52" selection-end-line="58" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/LongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/LongestNoRepeat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/LongestPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/MaxArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/MinSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-          <folding>
-            <element signature="e#913#914#0" expanded="true" />
-            <element signature="e#940#941#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/BeautifulArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/EscapeGhosts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="202" selection-start-line="202" selection-end-line="202" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="276" column="13" selection-start-line="276" selection-start-column="13" selection-end-line="276" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="585" column="14" selection-start-line="585" selection-start-column="14" selection-end-line="585" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/MycalendarTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -1268,13 +1196,149 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/LastRemaining_Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="378">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#527#528#0" expanded="true" />
             <element signature="e#548#549#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/StrToInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/Multiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/MoreThanHalfNum_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designer/test/singleton/hdjsh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designer/test/singleton/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java18/newchara/test/ConsumerT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="83" column="29" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="29" />
+          <folding>
+            <element signature="e#2837#2838#0" expanded="true" />
+            <element signature="e#2866#2867#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java18/newchara/test/FunctionTR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java18/newchara/test/PredicateT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1512">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java18/newchara/test/SupplierT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java18/newchara/test/StreamAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1728">
+          <caret line="822" column="18" selection-start-line="822" selection-start-column="18" selection-end-line="822" selection-end-column="18" />
         </state>
       </provider>
     </entry>
