@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3120a1b6-c586-4e5f-acd1-bb8a48196a53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/MoreThanHalfNum_Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/Multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/StrToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designer/test/singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designer/test/singleton/hdjsh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java18/newchara/test/ConsumerT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java18/newchara/test/FunctionTR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java18/newchara/test/PredicateT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java18/newchara/test/StreamAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java18/newchara/test/SupplierT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/FindPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/IsPopOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/NumberOf1Between1AndN_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/PrintFromTopToBottom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/test/PrintMinNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test1/com/algorithm/test/IsContinuous.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test1/com/algorithm/test/IsContinuous.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,7 +37,7 @@
     <session id="-1195387768">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
@@ -67,7 +61,7 @@
           <entry key="class" value="33" />
           <entry key="fxml" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="229" />
+          <entry key="java" value="240" />
           <entry key="md" value="1" />
           <entry key="name" value="1" />
           <entry key="xml" value="4" />
@@ -77,7 +71,7 @@
         <counts>
           <entry key="CLASS" value="33" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="229" />
+          <entry key="JAVA" value="240" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="5" />
         </counts>
@@ -86,16 +80,16 @@
         <counts>
           <entry key="class" value="4" />
           <entry key="dummy" value="9" />
-          <entry key="java" value="17809" />
-          <entry key="txt" value="9" />
+          <entry key="java" value="19016" />
+          <entry key="txt" value="17" />
           <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="17809" />
-          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="JAVA" value="19016" />
+          <entry key="PLAIN_TEXT" value="26" />
           <entry key="XML" value="6" />
         </counts>
       </usages-collector>
@@ -105,119 +99,107 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java18/newchara/test/ConsumerT.java">
+        <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/MaxArea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="486">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/NumberOf1Between1AndN_Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-281">
+              <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#1153#1154#0" expanded="true" />
+                <element signature="e#1224#1225#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java18/newchara/test/SupplierT.java">
+        <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/PrintMinNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/IsPopOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/PrintFromTopToBottom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-111">
+              <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/FindPathSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-              <folding>
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-              </folding>
+              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Supplier.java">
+        <entry file="file://$PROJECT_DIR$/src/test2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java18/newchara/test/StreamAPI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-724">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/stream/Stream.java">
+        <entry file="file://$PROJECT_DIR$/src/Testhashset.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1728">
-              <caret line="822" column="18" selection-start-line="822" selection-start-column="18" selection-end-line="822" selection-end-column="18" />
+            <state relative-caret-position="108">
+              <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java18/newchara/test/FunctionTR.java">
+        <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/javax/swing/tree/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java18/newchara/test/PredicateT.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Predicate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1512">
-              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Function.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="83" column="29" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="29" />
-              <folding>
-                <element signature="e#2837#2838#0" expanded="true" />
-                <element signature="e#2866#2867#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Consumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+            <state relative-caret-position="-163">
+              <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -248,11 +230,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/algorithm/test/LongestPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/com/algorithm/test/XorGame.java" />
-        <option value="$PROJECT_DIR$/src/com/algorithm/test/GetHint.java" />
-        <option value="$PROJECT_DIR$/src/com/algorithm/test/MinSteps.java" />
-        <option value="$PROJECT_DIR$/src/com/algorithm/test/MaxArea.java" />
         <option value="$PROJECT_DIR$/src/com/algorithm/test/IntToRoman.java" />
         <option value="$PROJECT_DIR$/src/com/algorithm/test/LongestCommonPrefix.java" />
         <option value="$PROJECT_DIR$/src/com/algorithm/test/PrintSymSquare.java" />
@@ -299,6 +276,11 @@
         <option value="$PROJECT_DIR$/src/com/java18/newchara/test/FunctionTR.java" />
         <option value="$PROJECT_DIR$/src/com/java18/newchara/test/PredicateT.java" />
         <option value="$PROJECT_DIR$/src/com/java18/newchara/test/StreamAPI.java" />
+        <option value="$PROJECT_DIR$/src/com/algorithm/test/NumberOf1Between1AndN_Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/algorithm/test/PrintMinNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/algorithm/test/IsPopOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/algorithm/test/PrintFromTopToBottom.java" />
+        <option value="$PROJECT_DIR$/src/com/algorithm/test/FindPathSum.java" />
       </list>
     </option>
   </component>
@@ -309,9 +291,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="669" />
-    <option name="y" value="1" />
-    <option name="width" value="1258" />
+    <option name="x" value="711" />
+    <option name="y" value="250" />
+    <option name="width" value="1178" />
     <option name="height" value="1006" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -332,73 +314,11 @@
             <path>
               <item name="test1" type="b2602c69:ProjectViewProjectNode" />
               <item name="ideaproject" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ideaproject" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ideaproject" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ideaproject" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="test1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ideaproject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ideaproject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ideaproject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ideaproject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ideaproject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test1" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="JUnit4" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="JUnit4" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -412,7 +332,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559706110465" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560237417287" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -438,38 +358,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FunctionTR.test">
-    <configuration name="ConsumerT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java18.newchara.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.java18.newchara.test" />
-      <option name="MAIN_CLASS_NAME" value="com.java18.newchara.test.ConsumerT" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionTR.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java18.newchara.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.java18.newchara.test" />
-      <option name="MAIN_CLASS_NAME" value="com.java18.newchara.test.FunctionTR" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MoreThanHalfNum_Solution.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PrintFromTopToBottom.test">
+    <configuration name="FindPathSum.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test1" />
       <extension name="coverage">
         <pattern>
@@ -478,14 +368,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.algorithm.test" />
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.test.MoreThanHalfNum_Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.test.FindPathSum" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiply.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IsPopOrder.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test1" />
       <extension name="coverage">
         <pattern>
@@ -494,14 +384,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.algorithm.test" />
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.test.Multiply" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.test.IsPopOrder" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrToInt.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumberOf1Between1AndN_Solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test1" />
       <extension name="coverage">
         <pattern>
@@ -510,27 +400,55 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.algorithm.test" />
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.test.StrToInt" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.test.NumberOf1Between1AndN_Solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintFromTopToBottom.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algorithm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.test.PrintFromTopToBottom" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintMinNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algorithm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.test.PrintMinNumber" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.StrToInt.test" />
-      <item itemvalue="JUnit.Multiply.test" />
-      <item itemvalue="JUnit.MoreThanHalfNum_Solution.test" />
-      <item itemvalue="JUnit.ConsumerT" />
-      <item itemvalue="JUnit.FunctionTR.test" />
+      <item itemvalue="JUnit.NumberOf1Between1AndN_Solution" />
+      <item itemvalue="JUnit.PrintMinNumber" />
+      <item itemvalue="JUnit.IsPopOrder.test" />
+      <item itemvalue="JUnit.PrintFromTopToBottom.test" />
+      <item itemvalue="JUnit.FindPathSum.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FunctionTR.test" />
-        <item itemvalue="JUnit.ConsumerT" />
-        <item itemvalue="JUnit.MoreThanHalfNum_Solution.test" />
-        <item itemvalue="JUnit.Multiply.test" />
-        <item itemvalue="JUnit.StrToInt.test" />
+        <item itemvalue="JUnit.PrintFromTopToBottom.test" />
+        <item itemvalue="JUnit.FindPathSum.test" />
+        <item itemvalue="JUnit.IsPopOrder.test" />
+        <item itemvalue="JUnit.PrintMinNumber" />
+        <item itemvalue="JUnit.NumberOf1Between1AndN_Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -559,39 +477,46 @@
       <option name="project" value="LOCAL" />
       <updated>1559446052974</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="20190605">
+      <created>1559706236118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559706236118</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StrToInt_test - 2019.06.02 at 23h 37m 16s.xml">
-      <configuration name="StrToInt.test" configurationId="JUnit" />
+    <history-entry file="PrintFromTopToBottom_test - 2019.06.10 at 14h 25m 28s.xml">
+      <configuration name="PrintFromTopToBottom.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StrToInt_test - 2019.06.02 at 23h 40m 32s.xml">
-      <configuration name="StrToInt.test" configurationId="JUnit" />
+    <history-entry file="FindPathSum_test - 2019.06.11 at 11h 22m 33s.xml">
+      <configuration name="FindPathSum.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Multiply_test - 2019.06.03 at 14h 06m 21s.xml">
-      <configuration name="Multiply.test" configurationId="JUnit" />
+    <history-entry file="FindPathSum_test - 2019.06.11 at 11h 22m 46s.xml">
+      <configuration name="FindPathSum.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StrToInt_test - 2019.06.03 at 14h 08m 03s.xml">
-      <configuration name="StrToInt.test" configurationId="JUnit" />
+    <history-entry file="FindPathSum_test - 2019.06.11 at 11h 26m 27s.xml">
+      <configuration name="FindPathSum.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Multiply_test - 2019.06.03 at 14h 08m 03s.xml">
-      <configuration name="Multiply.test" configurationId="JUnit" />
+    <history-entry file="FindPathSum_test - 2019.06.11 at 11h 33m 22s.xml">
+      <configuration name="FindPathSum.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Multiply_test - 2019.06.03 at 14h 08m 07s.xml">
-      <configuration name="Multiply.test" configurationId="JUnit" />
+    <history-entry file="FindPathSum_test - 2019.06.11 at 11h 33m 31s.xml">
+      <configuration name="FindPathSum.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoreThanHalfNum_Solution_test - 2019.06.04 at 10h 22m 35s.xml">
-      <configuration name="MoreThanHalfNum_Solution.test" configurationId="JUnit" />
+    <history-entry file="FindPathSum_test - 2019.06.11 at 11h 33m 52s.xml">
+      <configuration name="FindPathSum.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoreThanHalfNum_Solution_test - 2019.06.04 at 10h 23m 23s.xml">
-      <configuration name="MoreThanHalfNum_Solution.test" configurationId="JUnit" />
+    <history-entry file="FindPathSum_test - 2019.06.11 at 11h 33m 57s.xml">
+      <configuration name="FindPathSum.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsumerT - 2019.06.04 at 17h 33m 34s.xml">
-      <configuration name="ConsumerT" configurationId="JUnit" />
+    <history-entry file="PrintFromTopToBottom_test - 2019.06.11 at 11h 34m 46s.xml">
+      <configuration name="PrintFromTopToBottom.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunctionTR_test - 2019.06.04 at 22h 35m 45s.xml">
-      <configuration name="FunctionTR.test" configurationId="JUnit" />
+    <history-entry file="PrintFromTopToBottom_test - 2019.06.11 at 11h 34m 56s.xml">
+      <configuration name="PrintFromTopToBottom.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -604,10 +529,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="669" y="1" width="1258" height="1006" extended-state="0" />
-    <editor active="true" />
+    <frame x="711" y="250" width="1178" height="1006" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1360601" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3041145" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -616,8 +540,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299435" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6788889" visible="true" weight="0.25028703" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48555556" weight="0.28013778" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6788889" weight="0.57979333" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48555556" weight="0.52583236" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
@@ -632,7 +556,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.4992343" visible="true" weight="0.031719532" />
+      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.4992343" visible="true" weight="0.033989266" />
       <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5007657" side_tool="true" visible="true" weight="0.03502304" />
     </layout>
   </component>
@@ -641,7 +565,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20190429" />
-    <option name="LAST_COMMIT_MESSAGE" value="20190429" />
+    <MESSAGE value="20190605" />
+    <option name="LAST_COMMIT_MESSAGE" value="20190605" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -892,94 +817,40 @@
           <properties />
           <option name="timeStamp" value="69" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/test/NumberOf1Between1AndN_Solution.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/test/PrintMinNumber.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/test/IsPopOrder.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/test/PrintFromTopToBottom.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/test/FindPathSum.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/MycalendarTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/NumPairsDivisibleBy60.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="55" selection-start-line="55" selection-end-line="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/NumberOfLines.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/NumSubarrayBoundedMax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/PrintNumOfSite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/PrintSymSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/RemoveNthFromEnd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/ReverseInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/ShortestToChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/Singleton_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-378">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/StrCut.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
@@ -994,13 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-71">
           <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/SumPlural.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1339,6 +1203,99 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1728">
           <caret line="822" column="18" selection-start-line="822" selection-start-column="18" selection-end-line="822" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/SumPlural.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/MaxArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/javax/swing/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-163">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/IsPopOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/NumberOf1Between1AndN_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-281">
+          <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="e#1153#1154#0" expanded="true" />
+            <element signature="e#1224#1225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/PrintMinNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/PrintFromTopToBottom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-111">
+          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/test/FindPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-724">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Testhashset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
         </state>
       </provider>
     </entry>
