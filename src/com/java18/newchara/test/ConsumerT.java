@@ -11,6 +11,8 @@ public class ConsumerT {
 
     @Test
     public void test(){
-        changeStr("hello",(str) -> System.out.println(str));
+        //  只有一个参数，（）可以省略
+        // changeStr("hello",(str) -> System.out.println(str));
+        changeStr("hello",str -> System.out.println(str));
     }
 }

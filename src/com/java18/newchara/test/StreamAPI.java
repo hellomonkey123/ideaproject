@@ -22,7 +22,7 @@ public class StreamAPI {
         Stream<String> stream3 = Stream.of("aa","bb","cc");
 
         //4.创建无限流，迭代
-        Stream<Integer> stream4 = Stream.iterate(0,(x) -> x + 2);
+        Stream<Integer> stream4 = Stream.iterate(0,x -> x + 2);
 
         //生成
         Stream.generate(() -> Math.random());

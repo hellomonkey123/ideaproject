@@ -12,7 +12,7 @@ public class PredicateT {
 
     @Test
     public void test(){
-        boolean result = changeBoolean("hello",(str) -> str.length() > 5);
+        boolean result = changeBoolean("hello",str -> str.length() > 5);
         System.out.println(result);
     }
 }

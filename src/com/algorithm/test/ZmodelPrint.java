@@ -41,8 +41,9 @@ public class ZmodelPrint {
 
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
-        String string = input.nextLine();
+        String str = input.nextLine();
+
         int num = input.nextInt();
-        zmodelPrint(string, num);
+        zmodelPrint(str, num);
     }
 }

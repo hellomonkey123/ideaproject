@@ -12,7 +12,7 @@ public class FunctionTR {
     //打印结果为300
     @Test
     public void test(){
-        Long result = changeNum(100L, (x) -> x + 200L);
+        Long result = changeNum(100L, x -> x + 200L);
         System.out.println(result);
     }
 }
