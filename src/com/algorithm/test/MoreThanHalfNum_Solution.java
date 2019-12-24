@@ -42,7 +42,7 @@ public class MoreThanHalfNum_Solution {
 
     @Test
     public void test(){
-        int[] num = {4,2,1,4,2,4};
+        int[] num = {4,2,1,4,2,4,4};
         System.out.println(moreThanHalfNum_Solution(num));
     }
 }

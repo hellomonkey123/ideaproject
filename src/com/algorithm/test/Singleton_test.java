@@ -2,6 +2,12 @@ package com.algorithm.test;
 
 import com.sun.org.apache.xalan.internal.xsltc.dom.SingletonIterator;
 
+ class Tes{
+    private static int aa =1;
+    public int getss(){
+        return aa++;
+    }
+}
 public class Singleton_test {
 
     //静态常量实现单例模式
@@ -42,6 +48,11 @@ public class Singleton_test {
 
     public static void main(String[] args){
 
+        Tes tt = new Tes();
+        Tes tut = new Tes();
+        tt.getss();
+        tut.getss();
+        System.out.println(tut.getss());
         Object o = new Object();
         String i = o.toString();
         System.out.println(o);

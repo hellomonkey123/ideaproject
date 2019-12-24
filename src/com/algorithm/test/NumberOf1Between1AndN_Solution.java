@@ -45,6 +45,6 @@ public class NumberOf1Between1AndN_Solution {
 
     @Test
     public void test(){
-        System.out.println(numberOf1Between1AndN_Solution(10));
+        System.out.println(numberOf1Between1AndN_Solution(10000));
     }
 }

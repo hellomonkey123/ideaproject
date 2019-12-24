@@ -3,6 +3,8 @@ package com.thread.safety;
 import com.designer.test.singleton.Singleton;
 import org.junit.Test;
 
+import java.util.HashMap;
+
 public class VolatileTest {
 
     private static volatile int race = 0;
@@ -27,5 +29,12 @@ public class VolatileTest {
             Thread.yield();
         }
         System.out.println(race);
+    }
+
+    public void main(String[] args){
+        ThreadLocal threadLocal = new ThreadLocal();
+        HashMap map = new HashMap();
+        Integer i = new Integer(1);
+
     }
 }

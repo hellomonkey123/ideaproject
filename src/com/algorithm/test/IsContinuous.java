@@ -3,6 +3,7 @@ package com.algorithm.test;
 import org.junit.Test;
 
 import java.util.Arrays;
+import java.util.Stack;
 
 public class IsContinuous {
     public boolean isContinuous(int [] numbers) {
@@ -40,6 +41,7 @@ public class IsContinuous {
 
     @Test
     public void test(){
+
         int[] num = {0,0,1,4,5};
         System.out.println(isContinuous(num));
     }

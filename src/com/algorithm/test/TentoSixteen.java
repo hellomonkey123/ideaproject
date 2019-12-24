@@ -2,12 +2,21 @@ package com.algorithm.test;
 
 import org.junit.Test;
 
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Objects;
 import java.util.Scanner;
 
 public class TentoSixteen {
 
 
     public static void main(String[] args){
+        int sum = 0;
+        System.out.println(20150229%16);
+        for (int i = 100; i < 1000;i++){
+            sum += ((i % 8 == 1 && i % 9 == 1) ? i : 0);
+        }
+        System.out.println(sum);
         Scanner input =  new Scanner(System.in);
         String v = input.next();
         String s = input.next();
@@ -16,7 +25,6 @@ public class TentoSixteen {
         }else {
             tentoSixteen(s.substring(2,s.length()));
         }
-
     }
 
     @Test
@@ -33,5 +41,8 @@ public class TentoSixteen {
             }
         }
         System.out.print(sum);
+
     }
+
+    ArrayList<Integer>  list = new ArrayList<>();
 }

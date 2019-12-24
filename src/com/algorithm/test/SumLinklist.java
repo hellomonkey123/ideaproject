@@ -3,7 +3,7 @@ package com.algorithm.test;
 class ListNode {
       int val;
       ListNode next;
-      ListNode(int x) { val = x; }
+      ListNode(int x) { this.val = x; }
   }
 public class SumLinklist {
 
